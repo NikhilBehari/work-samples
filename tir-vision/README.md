@@ -10,3 +10,9 @@ This repository contains sample code implementing a training methodology to iden
 Sample TIR Imagery - <a href="http://lila.science/datasets/conservationdrones">BIRDSAI</a>
 </center>
 
+<p align="center">
+  <img src="../images/tir-1.jpg" width="68%">
+</p>
+
+
+
