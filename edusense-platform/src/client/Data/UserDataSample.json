@@ -1,0 +1,13 @@
+{
+    "username": "test@andrew.cmu.edu",
+    "password": "",
+    "name": {
+        "firstName": "Ketaki",
+        "lastName": "Rao"
+    },
+    "profliePicture": "",
+    "institution": "Carnegie Mellon University",
+    "emails": [],
+    "authLevel": 0,
+    "classes": []
+}

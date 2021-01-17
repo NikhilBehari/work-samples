@@ -1,0 +1,5 @@
+**edusense-inference**: [EduSense](https://www.edusense.io) is an open-source platform for classroom environment sensing and automatic instructor feedback generation. It uses a computer vision-based system to track instructor and student behaviors throughout class sessions, and provides information to instructors to enable high-quality, independent professional development. 
+
+In this research, I worked on the EduSense team to help develop 1) Novel methodologies for human gaze and location inference from classroom footage, and 2) An intelligent platform for instructors to engage with their data. This repository contains sample code using [Deepgaze](https://github.com/mpatacchiola/deepgaze) and statistical analyses to capture characteristics of student/instructor behavior from lecture recordings. 
+
+> *included concepts:  3D computer vision, CNNs, Tensorflow, Deepgaze, machine/feature learning, statistics* 
