@@ -4,15 +4,18 @@ This repository contains sample code implementing a training methodology to iden
 
 > *included concepts:  object detection, object classification, TensorFlow, Keras*
 
-<center>
-<img align="center" src="../images/tir-1.jpg" width="48%">
-<img align="center" src="../images/tir-2.jpg" width="48%">
-Sample TIR Imagery - <a href="http://lila.science/datasets/conservationdrones">BIRDSAI</a>
-</center>
+<p align="center">
+  <img src="../images/tir-1.jpg" width="58%">
+</p>
 
 <p align="center">
-  <img src="../images/tir-1.jpg" width="68%">
+  <img src="../images/tir-2.jpg" width="58%">
 </p>
+
+<p align="center">
+  Sample TIR Imagery - <a href="http://lila.science/datasets/conservationdrones">BIRDSAI</a>
+</p>
+
 
 
 
