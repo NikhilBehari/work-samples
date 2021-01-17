@@ -4,5 +4,9 @@ This repository contains the code for the EduSense platform, an intelligent inte
 
 > *included concepts:  full stack development, intelligent interfaces, user-centered design* 
 
-<img align="center" src="../images/edusense-1.png" width="48%">
-<img align="center" src="../images/edusense-2.png" width="48%">
+<p align="center">
+  <img src="../images/edusense-1.png" width="58%">
+</p>
+<p align="center">
+  <img src="../images/edusense-2.png" width="58%">
+</p>
