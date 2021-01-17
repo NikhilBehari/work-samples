@@ -3,3 +3,6 @@
 This repository contains the code for the EduSense platform, an intelligent interface used to process, interpret, and present automatically generated classroom data to instructors. I developed this web application from scratch using the React.js, Node, Express, GraphQL, and MongoDB (MERNG) stack, and using my developed statistical approach to present insights to instructors. 
 
 > *included concepts:  full stack development, intelligent interfaces, user-centered design* 
+
+<img align="center" src="../images/edusense-1.png" width="48%">
+<img align="center" src="../images/edusense-2.png" width="48%">

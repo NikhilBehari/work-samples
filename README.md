@@ -26,3 +26,5 @@ This repository contains the code for the EduSense platform, an intelligent inte
 > *included concepts:  full stack development, intelligent interfaces, user-centered design* 
 
 **selected-research**: This repository contains examples of my research publications. 
+
+> *included concepts:  computer vision, network analysis, machine learning, statistics, platform development* 
